@@ -1,6 +1,6 @@
 
 ## Inicjalizacja tablicy:
-Aby przygotować tablicę musimy podać długość naszej tablicy, oraz typ danych jakie będzie zawierała. Stwórzmy tablicę typu `int` o nazwie `myArr` która zawiera `50\` elementów:
+Aby przygotować tablicę musimy podać długość naszej tablicy, oraz typ danych jakie będzie zawierała. Stwórzmy tablicę typu `int` o nazwie `myArr` która zawiera `50` elementów:
 
 ```java
 // typ[] nazwa = new typ[długość];
