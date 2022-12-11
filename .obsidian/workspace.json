@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metody/methods.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metody/methods.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "metody/methods.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metody/methods.md"
+                "file": "README.md"
               }
             }
           }
@@ -136,11 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd99b24bcb08966b",
+  "active": "183c2e57f4e7fed2",
   "lastOpenFiles": [
+    "metody/methods.md",
     "tablice/array.md",
     "README.md",
-    "metody/methods.md",
     "Pasted image 20221118202047.png",
     "Pasted image 20221118202045.png",
     "Pasted image 20221118201348.png",
